@@ -13,12 +13,14 @@ Checkout and order placement
 Order history and tracking
 
 🛠️ Admin Features
+
 Add, update, and delete products
 Manage categories
 View and manage orders
 User management via Django admin panel
 
 🧰 Tech Stack
+
 Backend: Django (Python)
 Frontend: HTML, CSS
 Database: PostgreSQL 
